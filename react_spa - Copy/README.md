@@ -1,3 +1,6 @@
+# Project Purpose - The purpose of this projhect is to build an application using REACT components and show the functionality as well as aesthetics of the webpage.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
